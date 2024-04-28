@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiApplication<Api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.teresita.Api.ApiApplication",
+            "projectName": "Api",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
